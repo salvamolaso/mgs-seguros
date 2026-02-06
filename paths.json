@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/mgs-seguros/language-masters/en:/",
-    "/content/mgs-seguros/language-masters/en/:/en/",
-    "/content/mgs-seguros/language-masters/fr/:/fr/",
-    "/content/mgs-seguros/language-masters/fr:/fr",
-    "/content/mgs-seguros/language-masters/es/:/es/",
-    "/content/mgs-seguros/language-masters/es:/es",
-    "/content/mgs-seguros/language-masters/ja/:/ja/",
-    "/content/mgs-seguros/language-masters/ja:/ja",
-    "/content/mgs-seguros/language-masters/de/:/de/",
-    "/content/mgs-seguros/language-masters/de:/de",
-    "/content/mgs-seguros/configuration:/.helix/config.json",
-    "/content/mgs-seguros/metadata:/metadata.json",
-    "/content/mgs-seguros/redirects:/redirects.json",
-    "/content/mgs-seguros/placeholders:/placeholders.json"
+    "/content/mgsseguros/language-masters/en:/",
+    "/content/mgsseguros/language-masters/en/:/en/",
+    "/content/mgsseguros/language-masters/fr/:/fr/",
+    "/content/mgsseguros/language-masters/fr:/fr",
+    "/content/mgsseguros/language-masters/es/:/es/",
+    "/content/mgsseguros/language-masters/es:/es",
+    "/content/mgsseguros/language-masters/ja/:/ja/",
+    "/content/mgsseguros/language-masters/ja:/ja",
+    "/content/mgsseguros/language-masters/de/:/de/",
+    "/content/mgsseguros/language-masters/de:/de",
+    "/content/mgsseguros/configuration:/.helix/config.json",
+    "/content/mgsseguros/metadata:/metadata.json",
+    "/content/mgsseguros/redirects:/redirects.json",
+    "/content/mgsseguros/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/mgs-seguros/",
-    "/content/dam/mgs-seguros/"
+    "/content/mgsseguros/",
+    "/content/dam/mgsseguros/"
   ]
 }
