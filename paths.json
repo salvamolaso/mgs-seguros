@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/mgs-seguros/language-masters/en:/",
+    "/content/mgs-seguros/language-masters/en/:/en/",
+    "/content/mgs-seguros/language-masters/fr/:/fr/",
+    "/content/mgs-seguros/language-masters/fr:/fr",
+    "/content/mgs-seguros/language-masters/es/:/es/",
+    "/content/mgs-seguros/language-masters/es:/es",
+    "/content/mgs-seguros/language-masters/ja/:/ja/",
+    "/content/mgs-seguros/language-masters/ja:/ja",
+    "/content/mgs-seguros/language-masters/de/:/de/",
+    "/content/mgs-seguros/language-masters/de:/de",
+    "/content/mgs-seguros/configuration:/.helix/config.json",
+    "/content/mgs-seguros/metadata:/metadata.json",
+    "/content/mgs-seguros/redirects:/redirects.json",
+    "/content/mgs-seguros/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/mgs-seguros/",
+    "/content/dam/mgs-seguros/"
   ]
 }
